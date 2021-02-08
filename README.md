@@ -1,2 +1,3 @@
 # turbo-tribble
-Mobile Development
+"The unexamined life is not worth living"
+    -Socrates
